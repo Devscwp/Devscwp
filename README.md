@@ -1,6 +1,6 @@
-# Hi, I'm [Your Name] 👋  
+# Hi, I'm DevSC 👋  
 
-<img src="URL_TO_YOUR_BANNER_IMAGE" alt="Hello, I'm [Your Name]" />
+<img src="banner.jpg" alt="Hello, I'm DevSC" />
 
 ## 🚀 About Me  
 🔹 Web Developer | 📚 Lifelong Learner | ✨ Content Creator  

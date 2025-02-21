@@ -1,5 +1,4 @@
-```markdown
-![Banner](banner.jpg)
+<img src="banner.jpg" alt="Banner Image">
 
 # 👑 I am Web Developer  
 🖊️ Love to write code  

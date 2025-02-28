@@ -8,7 +8,7 @@ I’m a WordPress Web Developer passionate about making error-free websites with
 ## 👨‍💻 Skills & Experience:
 ✅ WordPress  
 ✅ HTML5 / CSS3  
-✅ Canva 
+✅ Canva/Figma
 
 ## 📊 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shovoalways&layout=compact)
